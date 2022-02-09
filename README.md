@@ -1,6 +1,6 @@
 # 21adcs-facebook-ads
 
-Please see https://github.com/tomhanlei/21adcs-facebook-ads/releases/tag/0.9 to download the datasets that we have created in [1]. Please cite the paper in your work.
+Please see https://github.com/tomhanlei/21adcs-facebook-ads/releases/tag/1.0 to download the datasets that we have created in [1]. Please cite the paper in your work.
 
 In [*task_screenshot*](https://github.com/tomhanlei/21adcs-facebook-ads/tree/main/task_screenshot) folder, you will find our task design and the questions that we asked for generating annotations.
 
